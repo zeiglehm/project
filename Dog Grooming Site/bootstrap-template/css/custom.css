@@ -1,0 +1,182 @@
+@charset "UTF-8";
+/* Add your custom CSS declarations below  */
+
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    
+}
+.navbar {
+    font-family: 'Poppins', sans-serif;
+ 
+}
+
+
+p {
+    font-family: 'Poppins', sans-serif;
+    line-height:33px;
+    text-align:justify;
+    font-size:17px;
+    margin:30px;
+}
+.container {
+    padding:8px;
+}
+body {
+    background-color:#daedf4;
+      
+}
+li {
+   font-family: 'Poppins', sans-serif;
+
+}
+h3 {
+    font-family: 'Poppins', sans-serif;
+}
+
+.business-hours {
+background: #e1ccb1; 
+padding: 30px 14px;
+margin-top: -10px;
+position: relative;
+
+}
+.business-hours:before{
+
+width: 13px;
+height: 13px;
+
+position: absolute;
+top: 5px;
+left: -12px;
+
+}
+.business-hours .title {
+font-size: 20px;
+color: white;
+text-transform: uppercase;
+padding-left: 5px;
+border-left: 4px solid white; 
+}
+.business-hours li {
+color: black;
+line-height: 30px;
+border-bottom: 1px solid white; 
+}
+.hr {
+    color:white;
+}
+footer{
+  color: white;
+    font-family: 'Poppins', sans-serif;
+    margin-top:30px;
+}
+footer a{
+  color: #bfffff;
+}
+footer a:hover{
+  color: white;
+}
+
+
+/**Sub Navigation**/
+.subnavigation-container{
+  background: #3d6277;
+}
+.subnavigation .nav-link{
+  color: white;
+  font-weight: bold;
+}
+.subnavigation-container{
+  text-align: center;
+}
+.subnavigation-container .navbar{
+  display: inline-block;
+  margin-bottom: -6px; /* Inline-block margin offffset HACK -Gilron */
+}
+.col-subnav a{
+  padding: 1rem 1rem;
+  color: white;
+  font-weight: bold;
+}
+.col-subnav .active{
+  border-top:5px solid orange;
+ background: white;
+  color: black;
+}
+td {
+    font-family: 'Poppins', sans-serif;
+    font-size:20px;
+    color:#e1ccb1;
+    font-weight:bold;
+    background-color:white;
+    padding:20px;
+}
+table {
+ 
+    border: 5 px solid black;
+    padding:20px;
+    
+}
+h4 {
+   font-family: 'Poppins', sans-serif;
+    
+}
+.card {
+    margin:10px;
+    border:1px dotted #e1ccb1;
+}
+h2 {
+    font-family: 'Poppins', sans-serif;
+    margin:30px;
+}
+.card-body {
+    font-family: 'Poppins', sans-serif;
+}
+.card-header {
+    width : 90%;
+  overflow-y:auto;
+
+  display: block;
+  margin-top: 4px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 4px;
+ 
+
+ background-color: white;
+    
+}
+
+
+
+.btn {
+    color:black;
+    font-weight:bold;
+}
+.container-policy {
+ background-color:white;
+    margin:70px;
+    border:1px dotted #e1ccb1;
+}
+small {
+    font-family: 'Poppins', sans-serif;
+}
+.page-footer {
+    background-color:#3d6277;
+    font-family: 'Poppins', sans-serif;
+    font-size:17px;
+}
+h6 {
+    font-size:19px;
+}
+hr {
+   border: 0.5px solid white;
+}
+
+
+
+
+
+
+
